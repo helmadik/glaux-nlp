@@ -1915,6 +1915,9 @@
 :le:a)nome/w
 :de:a)-nom ew_denom
 
+:le:nome/w
+:de:nom ew_denom comp_only
+
 :le:a)nomoio/w
 :de:a)nomoi ow_denom
 
@@ -4012,12 +4015,12 @@
 :de:geiton ew_denom
 :de:geiton euw
 
-:le:gelasei/w
-:vs:gela^sei w_stem desiderative
+#:le:gelasei/w
+#:vs:gela^sei w_stem desiderative moved to gela/w
 
-:le:gela/skw
-:de:gel a_stem
-;pr,-ask
+#:le:gela/skw
+#:de:gel a_stem
+#;pr,-ask moved to gela/w
 
 :le:gela/w
 -:vs:gel aw_pr
@@ -4047,6 +4050,9 @@
 ;ao,-ass epic
 ;ap,-asq
 :vb:geloi/wntes aw_pr pres part act masc nom pl epic
+:vs:gela^sei w_stem desiderative
+:de:gel a_stem
+;pr,-ask
 
 :le:geloiomele/w
 :de:geloio-mel ew_denom
@@ -5373,6 +5379,7 @@
 @ end:o/menai aor act inf
 @ end:o/men aor act inf
 :vb:dw/meqon  omi_aor 1st dual aor subj act epic
+:vs:dwsei w_stem comp_only desiderative
 
 :le:di/emai
 :vs:di emi_pr
@@ -5727,8 +5734,8 @@
 :le:drapeteu/w
 :de:dra_pet euw
 
-:le:drasei/w
-:vs:dra_sei w_stem
+#:le:drasei/w
+#:vs:dra_sei w_stem desiderative moved to dra/w
 
 :le:dra/ssomai
 :vs:dedar perfp_g
@@ -5764,6 +5771,7 @@
 ;ap,-asq
 :de:dr a_stem ionic
 ;ao,-hs
+:vs:dra_sei w_stem desiderative
 
 :le:dre/pw
 :vs:dra^p aor2 ind act
@@ -6032,8 +6040,8 @@
 :de:dwru ss mp
 ;pr,-tt
 
-:le:dwsei/w
-:vs:dwsei w_stem comp_only desiderative
+#:le:dwsei/w
+#:vs:dwsei w_stem comp_only desiderative moved to di/dwmi
 
 :le:dwtina/zw
 :de:dwti_n azw
@@ -6225,6 +6233,9 @@
 
 :le:e)/qw
 :vs:e)q w_stem
+#ei)/wqa moved to separate entry; delete next lines to re-unite
+
+:le:ei)/wqa
 :vs:ei)wq perf_act
 @ plup end:ein uaugmented
 :vs:e)wq perf_act ionic epic
@@ -6249,7 +6260,7 @@
 @ end:ao 2nd sg aor ind
 @ end:ato 3rd sg aor ind
 
-:le:ei)=don
+:le:o(ra/w
 :vs:i)d aor2,syll_aug
 @ unaugmented epic ionic
 @ unaugmented iterative ionic 3rd sg
@@ -6465,8 +6476,8 @@
 :le:e)kfullofore/w
 :de:fullo-for ew_denom comp_only
 
-:le:e)lasei/w
-:vs:e)la^sei w_stem desiderative
+#:le:e)lasei/w
+#:vs:e)la^sei w_stem desiderative moved to e)lau/nw
 
 :le:e)lasso/w
 :de:e)lass ow_denom
@@ -6522,6 +6533,7 @@
 ;ap,-asq late
 ;va,-a^t
 :vs:e)la reg_fut act epic
+:vs:e)la^sei w_stem desiderative
 
 :le:e)lafru/nw
 :de:e)lafr unw
@@ -6944,9 +6956,10 @@
 :le:e)phbole/w
 :de:e)pa_bol ew_denom doric *pind.
 
-:le:e)phkoo/w
-:de:e)phko ow_denom
-:de:e)pako ow_denom doric
+#:le:e)phkoo/w
+#:de:e)phko ow_denom
+#:de:e)pako ow_denom doric
+#not attested
 
 :le:e)pibwmiostate/w
 :de:e)pibwmiosta^t ew_denom
@@ -6958,9 +6971,6 @@
 :de:kour ew_denom pb:e)pi/
 ;pr
 ;fu
-
-:le:e)pilli/zw
-:de:i)ll izw comp_only
 
 :le:e)pimele/omai
 :de:mel ew_denom mp pb:e)pi/
@@ -7093,6 +7103,7 @@
 ;pr
 :vs:e)rgac aor2 epic syll_aug
 :de:e)rg azw mp aor ind mp later prose
+:vs:e)rga^sei w_stem desiderative
 
 :le:e)rgaqei=n
 :vs:e)rga^q aor2,syll_aug,epic,poetic
@@ -7104,8 +7115,8 @@
 -:vb:e)erga^qei=n aor2 aor inf poetic epic
 -:vb:ei)rga^qei=n aor2 aor inf poetic attic
 
-:le:e)rgasei/w
-:vs:e)rga^sei w_stem desiderative
+#:le:e)rgasei/w
+#:vs:e)rga^sei w_stem desiderative moved to e)rga/zomai
 
 :le:e)rge/w
 :de:e)rg ew_denom comp_only
@@ -7613,6 +7624,7 @@
 
 :le:e)ta/zw
 :de:e)t azw
+;fu aw_fut attic
 
 :le:e(taire/w
 :de:e(tair ew_denom
@@ -8062,8 +8074,9 @@
 ;va
 :de:sx e_stem
 ;fu,-hs
-;ap,-eq
 ;pf,-hk
+:vs:sxeq aor_pass
+:vs:e)sxh perfp_vow
 ;va,-et
 ;va,-hm,wn_on
 :vs:sx aor2
@@ -8080,7 +8093,6 @@
 :vb:w)/xato ath_primary plup 3rd pl ind mp epic comp_only
 :vb:sxh/shsqa ath_primary fut ind act 2nd pl epic
 :vs:sx aor1
-:vs:sxeq aor_pass
 
 :le:e(yia/omai
 :de:e(y iaw_denom mp
@@ -8114,6 +8126,7 @@
 ;fu,-hs
 @ mid
 ;ao,-hs
+;pf,-hk
 :de:zw o_stem
 ;pr,-w,w_stem,ionic,epic
 @ imperf epic
@@ -9484,6 +9497,12 @@
 :le:i)liggia/w
 :de:i)_ligg iaw_denom
 
+:le:i)lli/zw
+:de:i)ll izw comp_only
+
+:le:i)llo/w
+:de:i)ll ow_denom comp_only
+
 :le:i)llw/ptw
 :de:i)llw ptw comp_only
 
@@ -10223,7 +10242,7 @@
 :de:ke a_stem
 ;va,-a^t
 
-:le:keda/nnumi
+:le:skeda/nnumi
 :de:ked a_stem poetic
 ;fu,-as
 ;ao,-ass
@@ -10940,7 +10959,7 @@
 
 :le:kna/w
 -:vb:knh= ami_aor epic 3rd sg
-:de:kn a_stem
+:de:kn aw_denom
 ;pr,ajw_pr
 @ 3rd sg pres ind act
 @ 2nd sg pres ind act
@@ -12511,7 +12530,10 @@
 :de:li_pa^r ew_denom
 
 :le:lipa/w
-:de:li^p aw_denom
+:de:li^p ow_denom
+;pr
+:de:li^p aw_denom late Attic
+;pr
 
 :le:lipoyuxe/w
 :de:li^po-yu_x ew_denom
@@ -14091,9 +14113,10 @@
 :le:naumaxe/w
 :de:nauma^x ew_denom
 :de:nausima^x ew_denom
-
-:le:naumaxhsei/w
 :vs:nauma^xhsei w_stem desiderative
+
+#:le:naumaxhsei/w
+#:vs:nauma^xhsei w_stem desiderative moved to naumaxe/w
 
 :le:nauphge/w
 :de:nauphg ew_denom
@@ -16102,7 +16125,7 @@
 :de:pai-fa ss
 ;pr,-ss
 
-:le:pai/w1
+:le:pai/w
 :vs:paihs reg_fut
 :de:pai reg_conj
 ;pr
@@ -16111,9 +16134,6 @@
 ;pf
 ;ap,-sq
 ;pp,perfp_s
-
-:le:pai/w2
-:vs:pai w_stem attic *ar.
 
 :le:paiwni/zw
 :de:paiwn izw
@@ -17488,9 +17508,10 @@
 ;pp
 ;ap
 ;ap fut
-
-:le:polemhsei/w
 :vs:polemhsei w_stem desiderative
+
+#:le:polemhsei/w
+#:vs:polemhsei w_stem desiderative moved to poleme/w
 
 :le:polemi/zw
 :de:polem izw
@@ -18506,6 +18527,7 @@
 :de:salpigg reg_conj
 ;fu
 ;ao
+;pp
 ;ao epic unaugmented
 :de:salp izw
 ;pr
@@ -19735,7 +19757,7 @@
 :le:strofodine/omai
 :de:strofo-di_n ew_denom mp
 
-:le:sto/rennumi
+:le:store/nnumi
 :de:str o_stem
 ;fu,-ws
 ;ao,-ws
@@ -19758,6 +19780,8 @@
 :de:strwn numi
 ;pr
 ;pr w_stem imperf
+:de:strwnnu_ reg_conj
+;pr
 
 :le:strwfa/w
 :de:strwf aw_denom
@@ -20006,7 +20030,7 @@
 :le:sxedia/zw
 :de:sxedi azw
 
-:le:sxe/qw%2
+:le:e)/xw
 :vs:sxeq aor2
 @ 3rd sg epic unaugmented
 @ 3rd pl epic unaugmented
@@ -20233,6 +20257,9 @@
 
 :le:tafreu/w
 :de:tafr euw
+
+:le:taxe/w
+:de:ta^x ew_denom
 
 :le:taxu/naute/w
 :de:ta^xu-naut ew_denom
@@ -21510,7 +21537,7 @@
 :vs:i)sxn ew_pr mp comp_only
 :vs:sxhs reg_fut mid comp_only
 :vs:sx aor2 mid comp_only
-:vs:e)sxh perfp_vow
+:vs:e)sxh perfp_vow comp_only
 @ plup 3rd sg
 
 :le:u(pna/w
@@ -22710,6 +22737,7 @@
 :vs:xes aor2
 :vs:kexod perf_act
 :vs:kexo perfp_d
+:vs:xesei w_stem desiderative
 
 :le:xeilopote/w
 :de:xeilo-pot ew_denom
@@ -22775,8 +22803,8 @@
 :de:xersonhs izw
 :de:xerronhs izw attic
 
-:le:xesei/w
-:vs:xesei w_stem desiderative
+#:le:xesei/w
+#:vs:xesei w_stem desiderative moved to xe/zw
 
 :le:xe/w
 :de:x ev_stem
