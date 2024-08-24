@@ -1208,9 +1208,9 @@ a)nti/,pro/-kale/w a)ntiprokale/omai
 a)nti/,pro/-tei/nw a)ntiprotei/nw
 a)nti/,pro/s-a)goreu/w a)ntiprosagoreu/w
 a)nti/,pro/s-ei)=mi a)ntipro/seimi
-a)nti/-pro/s-ei)=pon a)ntiprosei=pon
-a)nti/-pro/s-fe/rw a)ntiprosfe/rw
-a)nti/-pro/s-kale/w a)ntiproskale/omai
+a)nti/,pro/s-ei)=pon a)ntiprosagoreu/w
+a)nti/,pro/s-fe/rw a)ntiprosfe/rw
+a)nti/,pro/s-kale/w a)ntiproskale/omai
 a)nti/,su/n-a)nta/w a)ntisunanta/w
 a)nti/,su/n-logi/zomai a)ntisullogi/zomai
 a)nti/,u(po/-a)/gw a)nqupa/gw
@@ -3209,7 +3209,6 @@ e)k-e)a/w e)ceo/w
 e)k-e)gei/rw e)cegei/rw
 e)k-e)ggua/w e)ceggua/w
 e)k-e)gkaqi/zw e)cegkati/zw
-e)k-e)k-fullo-fore/w e)kfullofore/w
 e)k-e)kklhsia/zw e)cekklhsia/zw
 e)k-e)laio/w e)celaio/w
 e)k-e)lau/nw e)celau/nw
@@ -3294,6 +3293,7 @@ e)k-fronti/zw e)kfronti/zw
 e)k-fu/w e)kfu/w
 e)k-fugga/nw e)kfugga/nw
 e)k-fula/ssw e)kfula/ssw
+e)k-fullo-fore/w e)kfullofore/w
 e)k-fusa/w e)kfusa/w
 e)k-fusia/w e)kfusia/w
 e)k-fwne/w e)kfwne/w
@@ -3345,7 +3345,7 @@ e)k-i)sa/zw e)cisa/zw
 e)k-i)so/w e)ciso/w
 e)k-i)sxu/w e)cisxu/w
 e)k-i)xneu/w e)cixneu/w
-e)k-i)xno-skope/w e)cixnoskope/w
+#e)k-i)xno-skope/w e)cixnoskope/w look into this
 e)k-i)xnoskope/w e)cixnoskope/w
 e)k-ka/mnw e)kka/mnw
 e)k-kagxa/zw e)kkagxa/zw
@@ -3902,15 +3902,15 @@ e)k,a)po/-a)rta/w e)caparta/omai
 e)k,a)po/-ai(re/w e)cafaire/w
 e)k,a)po/-bai/nw e)capobai/nw
 e)k,a)po/-du/w2 e)capodu/nw
-e)k,a)po/-ei)=don e)capei=don
 e)k,a)po/-fai/nw e)capofai/nw
 e)k,a)po/-fqei/rw e)capofqei/rw
 e)k,a)po/-i(/hmi e)cafi/hmi
 e)k,a)po/-i(/sthmi e)cafi/stamai
 e)k,a)po/-ne/omai e)capone/omai
 e)k,a)po/-ni/zw e)caponi/zw
-e)k,a)po/-o)/llumi e)capo/llumi
 e)k,a)po/-o)cu/nw e)capocu/nw
+e)k,a)po/-o)/llumi e)capo/llumi
+e)k,a)po/-o(ra/w e)capei=don
 e)k,a)po/-ste/llw e)caposte/llw
 e)k,a)po/-ti/nw e)capoti/nw
 e)k,a)po/-w)qe/w e)capwqe/w
@@ -3918,7 +3918,7 @@ e)k,dia/-bai/nw e)kdiabai/nw
 e)k,e)pi/-a)ei/dw e)cepa/|dw
 e)k,e)pi/-eu)/xomai e)cepeu/xomai
 e)k,e)pi/-i(/hmi e)cefi/hmi
-e)k,kata/-ei)=don e)kkatei=don
+e)k,kata/-o(ra/w e)kkatei=don
 e)k,kata/-pa/llw e)kkatapa/llomai
 e)k,peri/-ei)=mi e)kperi/eimi
 e)k,peri/-ple/w e)kperiple/w
@@ -4114,7 +4114,6 @@ e)n-e)me/w e)neme/w
 e)n-e)mporeu/omai e)nemporeu/omai
 e)n-e)nedreu/w e)nedreu/w
 e)n-e)phrea/zw e)nephrea/zw
-e)n-e)pi/-xeire/w e)nepixeire/w
 e)n-e)pidhme/w e)nepidhme/w
 e)n-e)qi/zw e)neqi/zw
 e)n-e)rei/dw e)nerei/dw
@@ -4126,7 +4125,6 @@ e)n-e)xura/zw e)nexura/zw
 e)n-ei)/lw e)nei/llw
 e)n-ei)/lw e)neile/w
 e)n-ei)/rw e)nei/rw
-e)n-ei)=don e)nei=don
 e)n-ei)=mi e)/neimi
 e)n-ei)koni/zw e)neikoni/zw
 e)n-ei)rwneu/omai e)neirwneu/omai
@@ -4634,6 +4632,7 @@ e)n,dia/-ta/ssw e)ndiata/ssw
 e)n,dia/-tri/bw e)ndiatri/bw
 e)n,e)pi/-a)/gw e)nepa/gomai
 e)n,e)pi/-o(rke/w e)nepiorke/w
+e)n,e)pi/-xeire/w e)nepixeire/w
 e)n,kata/-de/w1 e)gkatade/w
 e)n,kata/-du/w2 e)gkatadu/nw
 e)n,kata/-ghra/skw e)gkataghra/skw
@@ -4932,7 +4931,6 @@ e)pi/-e)/oika e)pe/oike
 e)pi/-e)/romai e)pei/romai
 e)pi/-e)/rxomai e)pe/rxomai
 e)pi/-e)/xw e)pe/xw
-e)pi/-e)/xw e)pw/xato
 e)pi/-e)capata/w e)pecapata/w
 e)pi/-e)carke/w e)pecarke/w
 e)pi/-e)carti/zw e)pecarti/zw
@@ -4942,8 +4940,10 @@ e)pi/-e)corki/zw e)pecorki/zw
 e)pi/-e)coru/ssw e)pecoru/ssw
 e)pi/-e)gei/rw e)pegei/rw
 e)pi/-e)ggua/w e)peggua/w
+e)pi/-e(dreu/w e)fedreu/w
 e)pi/-e)gkale/w e)pegkale/w
 e)pi/-e)gkana/ssw e)pegkana/ssw
+e)pi/-e)gkla/w e)pegkla/w
 e)pi/-e)gkukle/omai e)pegkukle/w
 e)pi/-e)kboa/w e)pekboa/w
 e)pi/-e)kdike/w e)pekdike/w
@@ -4952,8 +4952,6 @@ e)pi/-e)lau/nw e)pelau/nw
 e)pi/-e)leuqeria/zw e)peleuqeria/zw
 e)pi/-e)lpi/zw e)pelpi/zw
 e)pi/-e)nari/zw e)penari/zw
-e)pi/-e)nedreu/w e)fedreu/w
-e)pi/-e)nikla/w e)pegkla/w
 e)pi/-e)nnoe/w e)pennoe/w
 e)pi/-e)nqume/omai e)penqume/omai
 e)pi/-e)ntrufa/w e)pentrufa/w
@@ -6046,8 +6044,8 @@ ei)s-xra/w ei)sxra/omai
 ei)s-xwre/w ei)sxwre/w
 ei)s,a)na/-a)/gw ei)sana/gw
 ei)s,a)na/-bai/nw ei)sanabai/nw
-ei)s,a)na/-ei)=don ei)sanei=don
 ei)s,a)na/-ei)=mi ei)sa/neimi
+ei)s,a)na/-o(ra/w ei)sanei=don
 ei)s,a)po/-i(/hmi ei)safi/hmi
 ei)s,a)po/-i(ka/nw ei)safika/nw
 ei)s,a)po/-i(kne/omai ei)safikne/omai
@@ -6322,7 +6320,6 @@ kata/-ei(/rgnumi kaqei/rgnumi
 kata/-ei(/rgnumi katei/rgnumi
 kata/-ei)/bw katei/bw
 kata/-ei)/lw kateile/w
-kata/-ei)=don katei=don
 kata/-ei)=mi ka/teimi
 kata/-ei)=pon katei=pon
 kata/-ei)ka/zw kateika/zw
@@ -6491,7 +6488,8 @@ kata/-kine/w katakine/w
 kata/-kla/w katakla/w
 kata/-klai/w kataklai/w
 kata/-klei/w1 kataklei/w
-kata/-klhro-dote/w kataklhrodote/w
+kata/-klhrodote/w kataklhrodote/w
+#kata/-klhrodote/w kataklhrodote/w check into this
 kata/-klhro/w kataklhro/w
 kata/-klhrodote/w kataklhrodote/w
 kata/-klhronome/w kataklhronome/w
@@ -7399,10 +7397,8 @@ para/-a)meu/omai parameu/omai
 para/-a)mhxane/w paramhxana/omai
 para/-a)mu/ssw paramu/ssw
 para/-a)nagka/zw paranagka/zw
-para/-a)nati/qhmi paranqe/w
 para/-a)ndro/w parandro/omai
 para/-a)nqe/w paranqe/w
-para/-a)nu/w paranu/ssw
 para/-a)pafi/skw parapafi/skw
 para/-a)pata/w parapata/w
 para/-a)qre/w paraqre/w
@@ -7523,7 +7519,6 @@ para/-e)ta/zw pareta/zw
 para/-ei)/kw parei/kw
 para/-ei)/lw pareile/w
 para/-ei)/rw parei/rw
-para/-ei)=don parei=don
 para/-ei)=mi pa/reimi2
 para/-ei)=pon parei=pon
 para/-ei)ka/zw pareika/zw
@@ -11091,7 +11086,6 @@ su/n,e)k-ai)/rw sunecai/rw
 su/n,e)k-ba/llw sunekba/llw
 su/n,e)k-bai/nw sunekbai/nw
 su/n,e)k-biba/zw sunekbiba/zw
-su/n,e)k-biba/zw sunekbiba/zw
 su/n,e)k-bio/w sunekbio/w
 su/n,e)k-blu/zw sunekblu/zw
 su/n,e)k-boa/w sunekboa/w
@@ -11771,7 +11765,6 @@ u(po/-e)rwta/w u(perwta/w
 u(po/-ei)/kw u(pei/kw
 u(po/-ei)/kw u(peikaqei=n
 u(po/-ei)/lw u(pi/llw
-u(po/-ei)=don u(peido/mhn
 u(po/-ei)=mi u(/peimi2
 u(po/-ei)=pon u(pei=pon
 u(po/-ei)mi/ u(/peimi1
